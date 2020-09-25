@@ -32,4 +32,7 @@ Uma vez preparado, a cada execução você deve:
 
 ________________________________________________________________________________________
 
+Observação: A quantidade de envios por pessoa por dia é limitado e variável. É possível que o envio (principalmente no caso dos Deputados) retorne um erro e não termina o envio. Infelizmente não é uma "cota" que possa ser alterada.
+
+
 #revistacrusoe #senado #python #stf #automacao
