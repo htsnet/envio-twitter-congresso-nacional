@@ -19,9 +19,10 @@ ________________________________________________________________________________
 Quer usar? Veja as orientações. Para preparar o ambiente você precisa:
 1 - Ter o Python 3.x instalado
 2 - Baixar o ChromeDriver (https://chromedriver.chromium.org/downloads) de acordo com o seu sistema e saber onde você o armazenou no seu aparelho 
-3 - Ter uma conta no Twitter (id e senha)
-4 - Baixar o arquivo "envioTwitterCongresso.py" (deste repositório)
-5 - Editar as primeiras linhas do arquivo "envioTwitterCongresso.py" de acordo com suas informações
+3 - Instalar a biblioteca Selenium (pip install selenium)
+4 - Ter uma conta no Twitter (id e senha)
+5 - Baixar o arquivo "envioTwitterCongresso.py" (deste repositório)
+6 - Editar as primeiras linhas do arquivo "envioTwitterCongresso.py" de acordo com suas informações
 
 Uma vez preparado, a cada execução você deve:
 1 - Abrir um terminal do Windows.
